@@ -1,0 +1,7 @@
+.box {
+    cursor: pointer;
+    padding: 20px;
+}
+.box:hover {
+    box-shadow: 7px 7px 7px 7px gainsboro;
+}
