@@ -1,4 +1,4 @@
 # Creative Agency - Service provider agency website
 
-![creative-agency]('/src/images/Capture.PNG')
+![creative agency](https://github.com/progabu23/src/images/Capture.PNG)
 
