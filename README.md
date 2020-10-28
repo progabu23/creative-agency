@@ -3,11 +3,11 @@
 ![creative agency](https://i.ibb.co/hmVYNyG/Capture.png)
 
 ## Technologies Used 
-    React
-    Router
-    NodeJS
-    MongoDB
-    ExpressJS 
-    Bootstrap
-    Heroku 
-	Firebase Authentication
+    *React
+    *Router
+    *NodeJS
+    *MongoDB
+    *ExpressJS 
+    *Bootstrap
+    *Heroku 
+	*Firebase Authentication
