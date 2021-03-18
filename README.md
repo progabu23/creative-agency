@@ -10,4 +10,4 @@
 * ExpressJS 
 * Bootstrap
 * Heroku 
-* Firebase Authentication
+* Firebase Authentication.
